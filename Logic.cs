@@ -217,8 +217,8 @@ namespace TechniteLogic
         private static List<Grid.CellID> StartNodes = new List<Grid.CellID>();
 
 
-        private static String logPfad1 = "..\\Logging\\debug.log";
-        private static String logPfad2 = "..\\Logging\\metrik.log";
+        private static String logPfad1 = "Logging\\debug.log";
+        private static String logPfad2 = "Logging\\metrik.log";
 
         private static readonly double normalizationValue = 0.456565681099892;
         private static readonly double dartthrowingRadius = 12;
